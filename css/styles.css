@@ -1,18 +1,27 @@
 h1 {
-  color: darkred;
+  color: darkblue;
 }
 
 h2 {
   font-style: italic;
-  color: red;
+  color: purple;
+  text-align: left;
 }
 
 p {
-  color: crimson;
+  color: black;
+}
+
+ul{
+  text-align: left;
+  margin-top: -20px;
 }
 
 body {
-  background-color: salmon;
+  background-color: lightgrey;
   font-family: sans-serif;
   text-align: center;
+}
+h3{
+  color: darkblue;
 }
